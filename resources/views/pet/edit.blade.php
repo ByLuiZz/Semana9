@@ -1,1 +1,1 @@
-<h2>Soy edit</h2>
+<h2>Editar</h2>
